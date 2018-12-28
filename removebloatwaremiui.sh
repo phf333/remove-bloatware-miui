@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "Desinstalando apps..."
+echo "Uninstalling apps..."
 
 
 adb shell pm uninstall -k --user 0 com.google.android.apps.photos # Google Photos
@@ -29,4 +29,4 @@ adb shell pm uninstall -k --user 0 com.android.deskclock #Reloj
 adb shell pm uninstall -k --user 0 com.google.android.youtube #Youtube
 adb shell pm uninstall -k --user 0 com.miui.msa.global #mas (main system advertising)
 
-echo "Show!"
+echo "Finished!"
