@@ -20,7 +20,6 @@ adb shell pm uninstall -k --user 0 com.google.android.videos # Play Movies
 adb shell pm uninstall -k --user 0 com.android.mms #Mensajes
 adb shell pm uninstall -k --user 0 com.miui.calculator #Calculadora
 adb shell pm uninstall -k --user 0 com.android.calendar #Calendario
-adb shell pm uninstall -k --user 0 com.mi.android.globalFileexplorer #Administrador de archivos
 adb shell pm uninstall -k --user 0 com.miui.analytics #Analytics
 adb shell pm uninstall -k --user 0 com.facebook.system #Facebook App Installer
 adb shell pm uninstall -k --user 0 com.facebook.appmanager #Facebook App Manager
