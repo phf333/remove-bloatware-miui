@@ -1,4 +1,4 @@
-# Default List of Apps 
+# Default List of Apps That Will be Deleted 
 
 
 
